@@ -1,30 +1,39 @@
 import React from 'react';
 import './Cards.css';
 import CardItem from './CardItem';
+import Pdf from "../instruction.pdf";
+
 
 function Cards() {
+  function onResumeClick() {
+    window.open(Pdf);
+  }
+
+
   return (
     <div className='cards'>
-      <h1>What is it about?</h1>
+      <h1>Want more information?</h1>
       <div className='cards__container'>
         <div className='cards__wrapper'>
           <ul className='cards__items'>
-            <CardItem
+            {/*
+	    <CardItem
               src='images/medical-laboratory.png'
               text='Science Box Contents'
-              path='/services'
+              path='/boxcontents'
             />
+	    */}
             <CardItem
               src='images/instructions.png'
               text='Instructions'
-              path='/services'
+	      path='/instructions'
             />
-	    <CardItem
+ 	    <CardItem
               src='images/group.png'
               text='Customer Reviews'
-              path='/services'
+              path='/reviews'
             />
-          </ul>
+	  </ul>
         </div>
       </div>
     </div>

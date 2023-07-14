@@ -8,7 +8,7 @@ function Footer() {
     <div className='footer-container'>
       <section className='footer-subscription'>
         <p className='footer-subscription-heading'>
-          Join the our newsletter
+          Join our newsletter
         </p>
         <p className='footer-subscription-text'>
           You can unsubscribe at any time.
@@ -65,7 +65,6 @@ function Footer() {
           <div class='footer-logo'>
             <Link to='/' className='social-logo'>
              CrowdScience 
-              <i class='fab fa-typo3' />
             </Link>
           </div>
           <small class='website-rights'>CrowdScience © 2023</small>
