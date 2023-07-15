@@ -8,7 +8,7 @@ import Services from './components/pages/Services';
 import Products from './components/pages/Products';
 import SignUp from './components/pages/SignUp';
 import ReviewsPage from './components/pages/ReviewsPage';
-import Pdf from "../instruction.pdf";
+import Pdf from "./instruction.pdf";
 
 function App() {
   const [currentTime, setCurrentTime] = useState(0);
