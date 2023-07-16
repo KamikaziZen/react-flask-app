@@ -16,13 +16,11 @@ function Cards() {
       <div className='cards__container'>
         <div className='cards__wrapper'>
           <ul className='cards__items'>
-            {/*
 	    <CardItem
               src='images/medical-laboratory.png'
               text='Science Box Contents'
               path='/boxcontents'
             />
-	    */}
             <CardItem
               src='images/instructions.png'
               text='Instructions'

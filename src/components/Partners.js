@@ -38,7 +38,7 @@ const itemData = [
     title: 'Sink',
   },
   {
-    img: 'images/gpu.jpg',
+    img: 'images/mgu.jpeg',
     title: 'Kitchen',
   },
   {
