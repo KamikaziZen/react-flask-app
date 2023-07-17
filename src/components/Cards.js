@@ -17,17 +17,17 @@ function Cards() {
         <div className='cards__wrapper'>
           <ul className='cards__items'>
 	    <CardItem
-              src='images/medical-laboratory.png'
+              src='photos/boxcontents.jpg'
               text='Science Box Contents'
-              path='/boxcontents'
+              path='/contents'
             />
             <CardItem
-              src='images/instructions.png'
+              src='photos/instructions.jpg'
               text='Instructions'
 	      path='/instructions'
             />
  	    <CardItem
-              src='images/group.png'
+              src='photos/customers.jpeg'
               text='Customer Reviews'
               path='/reviews'
             />

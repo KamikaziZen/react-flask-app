@@ -25,22 +25,22 @@ function ReviewsPage() {
 				firstName='Alla'
 				lastName='Ivanova'
 				occupation='Biology Teather'
-				profilePic='photos/reviewer3.png'
-				comment='Nowadays, it is simply not enough to pass the state exam if you want to study at the University… The set you offer will let us to carry out scientific projects on biology and ecology subjects right at school! Finally, my students will become able to present these projects at various competitions and conferences, which in turn confers significant benefits for university admission. I think I am ready buy your box among the first buyers.'
+				profilePic='photos/reviewer3.jpg'
+				comment='Nowadays, it is simply not enough to pass the state exam if you want to study at the University. The set you offer will let us to carry out scientific projects on biology and ecology subjects right at school! Finally, my students will become able to present these projects at various competitions and conferences, which in turn confers significant benefits for university admission. I think I am ready buy your box among the first buyers.'
 			/>
 			<ReviewBody 
 				firstName='Liudmila'
 				lastName='Gusakova'
 				occupation='Kit Developer customer at Clever Moscow'
-				profilePic='photos/reviewer4.png'
-				comment='The kit you presented looks really impressive and interesting! But I’m not sure if we can bring it to market, since you are concerned about safety and recommend to carry out experiments only in person with a teacher. However, it may work out… I can offer you a trial lesson with our students in September-October. And if everything is ok, we may continue collaboration.'
+				profilePic='photos/reviewer4.jpg'
+				comment='The kit you presented looks really impressive and interesting! But I am not sure if we can bring it to market, since you are concerned about safety and recommend to carry out experiments only in person with a teacher. However, it may work out. I can offer you a trial lesson with our students in September-October. And if everything is ok, we may continue collaboration.'
 			/>
 			<ReviewBody 
 				firstName='Svetlana'
 				lastName='Pogidaeva'
 				occupation='Biology Teather'
-				profilePic='photos/reviewer5.png'
-				comment='I really like your idea, sounds interesting! Indeed, I wanted to add microbiology experiments into the learning process (especially because I am an ecologist and help students with their ecological scientific projects). The only thing that stopped me was the lack of necessary equipment. The Web Platform aiming at giving a feedback to biology teachers [users, customers] is an extremely important thing! Unfortunately, in the school of mine, the project will be interesting only to a few (like 5-6 students, no more). Anyway, it’s a very useful tool for biology teachers, especially those of profile classes. So I will definitely buy your product when it is ready! '
+				profilePic='photos/reviewer3.jpeg'
+				comment='I really like your idea, sounds interesting! Indeed, I wanted to add microbiology experiments into the learning process (especially because I am an ecologist and help students with their ecological scientific projects). The only thing that stopped me was the lack of necessary equipment. The Web Platform aiming at giving a feedback to biology teachers [users, customers] is an extremely important thing! Unfortunately, in the school of mine, the project will be interesting only to a few (like 5-6 students, no more). Anyway, it is a very useful tool for biology teachers, especially those of profile classes. So I will definitely buy your product when it is ready! '
 			/>
 			<ReviewBody 
 				firstName='Olga'

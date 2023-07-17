@@ -36,7 +36,7 @@ function ReviewBody(props) {
             </CardText>
           </div>
           <CardText>
-            <small className="text-muted text-bold">
+            <small className="text-muted">
               {props.occupation || "Biology teacher"}
             </small>
           </CardText>
